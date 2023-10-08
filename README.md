@@ -1,0 +1,2 @@
+# Earthquake_prediction_model_useing_python
+Phase 2 Submission
